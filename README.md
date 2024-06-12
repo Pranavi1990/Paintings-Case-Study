@@ -30,3 +30,5 @@ $ To achieve the above objective following questions have to be answered:
 20) Which country has the 5th highest no of paintings?
 21) Which are the 3 most popular and 3 least popular painting styles?
 22) Which artist has the most no of Portraits paintings outside USA?. Display artist name, no of paintings and the artist nationality.
+
+$$ There were total of 7 tables and I used python to import such huge datasets into Mysql workbench using sqlAlchemy library.
